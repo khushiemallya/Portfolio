@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+body
+    {
+        font-family: "Cairo", sans-serif;
+        max-width: 55%;
+        margin: auto;
+        color: rgb(59, 59, 59)
+    }
+
+.header
+    {
+        display: flex;
+    }
+
+.data
+    {
+        line-height:0.5px;
+        height: 60px;
+        margin-top: 35px;
+    }
+
+.profile
+    {
+        height: 120px;
+        width: 120px;
+        object-fit: cover;
+        margin-top: 10px;
+        border-radius: 50%;
+    }
+
+.intro
+    {
+        flex: 1;
+        margin-left: 20px;
+    }
+
+.name
+    {
+        color: grey
+    }
+
+.coral
+    {
+        color: coral;
+    }
+
+.bio
+    {
+        letter-spacing: 1px;
+    }
+
+ .line_break
+     {
+         border: 1px solid coral;
+     }
+
+.table-heading
+     {
+         min-width: 200px;
+     }
+    
+.table-property
+    {
+        font-size:20px;
+        color: coral;
+    }
+
+.margins
+    {
+        margin-top: 10px;
+    }
+
+.top-alignment
+    {
+        vertical-align: text-top;
+        text-align: left;
+    }
