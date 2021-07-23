@@ -3,7 +3,7 @@
 body
     {
         font-family: "Cairo", sans-serif;
-        max-width: 55%;
+        max-width: 60%;
         margin: auto;
         color: rgb(59, 59, 59)
     }
@@ -16,7 +16,7 @@ body
 .data
     {
         line-height:0.5px;
-        height: 60px;
+        height: 65px;
         margin-top: 35px;
     }
 
