@@ -76,3 +76,20 @@ body
         vertical-align: text-top;
         text-align: left;
     }
+
+.job-info
+    {
+        font-size: 12px;
+    }
+
+.job-position
+    {
+        color:rgb(245, 159, 128);
+        font-weight: bold;
+    }
+
+.duration
+    {
+        font-size: 13px;
+        font-style:italic;
+    }
